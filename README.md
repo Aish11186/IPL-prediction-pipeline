@@ -1,0 +1,1 @@
+In this project, We systemically analyse the performace of different machine learning models on a sports prediction pipeline. Next we custom buid these models from scratch (instead of using built in methods from scikit-learn and then analyse performance) 
